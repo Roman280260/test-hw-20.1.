@@ -1,0 +1,22 @@
+body{
+  background-color: lightgrey;
+}
+h1 {
+  color: green;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-shadow: 2px 2px;
+}
+p {
+  font-family: arial;
+  font-size: 15px;
+  letter-spacing: 3px;
+  border: 2px solid black;
+}
+.red{
+color:red;
+}
+.yellow{
+color:yellow;
+}
